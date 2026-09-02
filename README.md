@@ -176,7 +176,7 @@ Users can interact with the dashboard using slicers such as:
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Screenshots/Sales_Dashboard.png)
+![Sales Dashboard](Screenshots/Dashboard.png)
 
 ---
 
